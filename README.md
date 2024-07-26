@@ -1,30 +1,20 @@
+
+
 # Leonardo Ribeiro Barbosa Santos
 
 Estudante em Desenvolvimento de Software WEB e Redes de Computadores.
 
 ### Conecte-se comigo
 
-<table>
-  <tr>
-    <td>
-      <a href="https://web.dio.me/users/leoanarcopunk77?tab=achievements">
-        <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" alt="Perfil DIO"/>
-      </a>
-      <a href="mailto:leonardo65535@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-      <a href="https://www.linkedin.com/in/leonardo-ribeiro-27127a180/">
-        <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC" alt="LinkedIn"/>
-      </a>
-      <a href="https://www.instagram.com/leopunk_/">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBhb2p6MGo1ZXRrbHRkYjBuM3Eyamc4NHpzMWJuNHgwOXk4N200biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dwGJLOdbWULVRIBBfz/giphy.webp" width="100" height="100" alt="GIF Animado">
-    </td>
-  </tr>
-</table>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/leoanarcopunk77?tab=achievements) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo65535@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leonardo-ribeiro-27127a180/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leopunk_/)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5MmtqNWd6MnpudXFsNHpoN3lxdWpyNDdydGtqOHlvMG44MWwyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rIPvDRiPkoBGsfaX8O/giphy.webp" style="width: 50px; height: 50px; display: inline-block; vertical-align: middle;" alt="GIF Animado">
+
+
+
 
 ### GitHub Stats
 
@@ -50,4 +40,5 @@ Estudante em Desenvolvimento de Software WEB e Redes de Computadores.
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 
